@@ -1,0 +1,10 @@
+body{
+    height: 97vh;
+    background: url('Images/espaco.jpg') center center no-repeat fixed;
+    background-size: cover;
+
+}
+
+main{
+    margin: auto;
+}
